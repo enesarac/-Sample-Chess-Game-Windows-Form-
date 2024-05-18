@@ -1,0 +1,23 @@
+C:\Users\asus\Desktop\object oriented programming\Chess\ChessLogic\bin\Debug\net6.0\ChessLogic.deps.json
+C:\Users\asus\Desktop\object oriented programming\Chess\ChessLogic\bin\Debug\net6.0\ChessLogic.dll
+C:\Users\asus\Desktop\object oriented programming\Chess\ChessLogic\bin\Debug\net6.0\ChessLogic.pdb
+C:\Users\asus\Desktop\object oriented programming\Chess\ChessLogic\obj\Debug\net6.0\ChessLogic.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\object oriented programming\Chess\ChessLogic\obj\Debug\net6.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\object oriented programming\Chess\ChessLogic\obj\Debug\net6.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\object oriented programming\Chess\ChessLogic\obj\Debug\net6.0\ChessLogic.AssemblyInfo.cs
+C:\Users\asus\Desktop\object oriented programming\Chess\ChessLogic\obj\Debug\net6.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\object oriented programming\Chess\ChessLogic\obj\Debug\net6.0\ChessLogic.dll
+C:\Users\asus\Desktop\object oriented programming\Chess\ChessLogic\obj\Debug\net6.0\refint\ChessLogic.dll
+C:\Users\asus\Desktop\object oriented programming\Chess\ChessLogic\obj\Debug\net6.0\ChessLogic.pdb
+C:\Users\asus\Desktop\object oriented programming\Chess\ChessLogic\obj\Debug\net6.0\ref\ChessLogic.dll
+C:\Users\esara\OneDrive\Masaüstü\chessssss\Chess\ChessLogic\bin\Debug\net6.0\ChessLogic.deps.json
+C:\Users\esara\OneDrive\Masaüstü\chessssss\Chess\ChessLogic\bin\Debug\net6.0\ChessLogic.dll
+C:\Users\esara\OneDrive\Masaüstü\chessssss\Chess\ChessLogic\bin\Debug\net6.0\ChessLogic.pdb
+C:\Users\esara\OneDrive\Masaüstü\chessssss\Chess\ChessLogic\obj\Debug\net6.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esara\OneDrive\Masaüstü\chessssss\Chess\ChessLogic\obj\Debug\net6.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\esara\OneDrive\Masaüstü\chessssss\Chess\ChessLogic\obj\Debug\net6.0\ChessLogic.AssemblyInfo.cs
+C:\Users\esara\OneDrive\Masaüstü\chessssss\Chess\ChessLogic\obj\Debug\net6.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\esara\OneDrive\Masaüstü\chessssss\Chess\ChessLogic\obj\Debug\net6.0\ChessLogic.dll
+C:\Users\esara\OneDrive\Masaüstü\chessssss\Chess\ChessLogic\obj\Debug\net6.0\refint\ChessLogic.dll
+C:\Users\esara\OneDrive\Masaüstü\chessssss\Chess\ChessLogic\obj\Debug\net6.0\ChessLogic.pdb
+C:\Users\esara\OneDrive\Masaüstü\chessssss\Chess\ChessLogic\obj\Debug\net6.0\ref\ChessLogic.dll
